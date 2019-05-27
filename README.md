@@ -33,6 +33,18 @@ La página debe permitir:
          * Competencias ganadas        
       - Desafíos
       - Siguiendo / Le siguen       
+      - Acciones
+        * Perfil propio:
+            - Subir pregunta
+            - Crear desafío
+            - Jugar competencia
+            - Desloguearse
+            - Ver preguntas subidas
+        * Otro perfil
+            - Seguir / Dejar de seguir
+            - Jugar desafío
+            - Desafiar a competencia
+* Crear pregunta
    * Sistema de notificaciones que te avise:
       - Cuando subís de nivel
       - Cuando alguien te desafió a una competencia
