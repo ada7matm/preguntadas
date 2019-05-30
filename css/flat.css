@@ -140,7 +140,6 @@ li span {
     padding-left: 130px;
 }
 
-
 .button.blue:hover {
     background:linear-gradient(to bottom, hsl(208, 79%, 56%), hsl(208, 100%, 75%));
 }
@@ -154,6 +153,7 @@ li span {
     background-color:#a20dbd;
     box-shadow: 1px 1px 30px 5px rgba(0,0,0,0.5)
 }
+
 .button:active {
 	position:relative;
 	top:1px;
@@ -182,8 +182,12 @@ li span {
 
 a {
     text-decoration: none;
+    color: white;
 }
 
 a:visited {
     color: white;
+}
+a:hover {
+    color: #ffc107;
 }
